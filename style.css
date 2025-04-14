@@ -46,14 +46,29 @@
 
   .boutton2 button:first-child{
     color: white;
-    width: 170px;
-    padding: 5px;
+    width: 150px;
+    padding: 0px;
     border-radius: 20px;
     background-color: rgb(187, 18, 18);
   }
   .boutton2 button:nth-child(2){
-    width: 170px;
+    width: 150px;
     padding: 10px;
     border-radius: 20px;
+  }
+  .boutton3 button{
+    width: 150px;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.136);
+    border: none;
+  }
+  .boutton4{
+    color: white;
+    width: 200px;
+    padding: 15px;
+    background-color: rgb(187, 18, 18);
+    position: relative;
+    left: 350px;
   }
   
